@@ -1,4 +1,6 @@
 /*This program will contain different exercises that have been done with C*/
+/*The program solves the exercises taken from the book C Programming: A modern approach book,*/
+/*Questions are taken from Chapter 5 - Programming Projects (questions 7,9,10 and 11)*/
 /*To compile this program in Ubuntu or other Linux Distributions you run the command: gcc -o Exercise1 Exercise1.c */
 /*Make sure you are in the correct folder path before doing so*/
 /*To run the command you can use the command: ./Exercise1 */
