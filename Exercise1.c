@@ -3,7 +3,7 @@
 /*Questions are taken from Chapter 5 - Programming Projects (questions 7,9,10 and 11)*/
 /*To compile this program in Ubuntu or other Linux Distributions you run the command: gcc -o Exercise1 Exercise1.c */
 /*Make sure you are in the correct folder path before doing so*/
-/*To run the command you can use the command: ./Exercise1 */
+/*To run the program you can use the command: ./Exercise1 */
 /*The first exercise will recieve four integers from the user */
 /*and display the greatest as well as smallest integer*/
 
